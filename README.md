@@ -1,12 +1,12 @@
-# I've joined the #100DaysOfCode Challenge.
+# I've joined the #100DaysOfCode Challenge:
 
 ## Contents
-* [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [My Log - click here to see my progress](log.md)
+* [Rules I'm Following](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
-## If you've decided to join:
+## If you decide to join (or want to check it out):
 0. Check out [the Official Site](http://100daysofcode.com/) for the #100DaysOfCode movement.
 1. Read [Join the #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2. Fork this repo and commit to the [Log](log.md) daily. [Example](https://github.com/Kallaway/100-days-kallaway-log).
