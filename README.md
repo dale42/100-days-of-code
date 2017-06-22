@@ -1,5 +1,7 @@
 # I've joined the #100DaysOfCode Challenge:
 
+**I will code for at least an hour every day for the next 100 days**
+
 ## Contents
 * [My Log - click here to see my progress](log.md)
 * [Rules I'm Following](rules.md)
