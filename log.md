@@ -24,3 +24,4 @@
 | -- | Sat September 23 | -- |
 | 92 | Sun September 24 | <h4>Day 92 Progress:</h4> *[Javascript 30 Coding Challenge](https://javascript30.com/)*: <br>Did Ex \#24: Sticky Nav and Ex \#25: Event Capture, Propagation, Bubbling, and Once. <h4>Thoughts:</h4> Two short exercises. Sticky Nav is fun but Event Capture was incredibly useful. |
 | 93 | Mon September 25 | <h4>Day 93 Progress:</h4> *[Javascript 30 Coding Challenge](https://javascript30.com/)*: <br>Did Ex \#26 Follow Along Dropdown. <h4>Thoughts:</h4> I keep saying it, but it's still true, I need to learn more about CSS animation. |
+| 94 | Tue September 26 | <h4>Day 94 Progress:</h4> *HTML Code Cleaner*<br> Taking the HTML code cleaner proof-of-concept code and throwing a UI around it. <h4>Thoughts:</h4> Mostly went smoothly but have run into a problem with the iframe I'm using to load code. Still learning my way around trouble-shooting DOM issues. |
